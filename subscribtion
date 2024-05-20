@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple YouTube Clone</title>
+</head>
+<body>
+    <div></div>
+    <div></div>
+    <div></div>
+    <header>
+        <h1> YouTube Clone</h1>
+        
+        <a href="https://www.youtube.com" target="_blank">
+            <img src="YouTube-LOGO.png" alt="YouTube Logo" style="width: 125px"height="75px"><br><br>
+            <input type="text" placeholder="Search"><br><br>
+        </a>
+    </header>
+</a>
+    
+    <main>
+        <section>
+            <div>
+                <iframe width="460"height="315"src="https://youtube.com/embed/QgoWmTNs-m0?si=WF_XvBSyZgBowg9j" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                    
+                </iframe><br><br>
+                <h1 style="color: rgb(11, 11, 14);"><b>DHONI - Retirement 😰 😓 | Madan Gowri | Tamil | MG</b></h1>
+                <button onclick="window.location.href='subscription.html'">Subscribe</button>
+               
+                
+            </div>
+           
+        </section>
+    </main>
+</body>
+</html>
